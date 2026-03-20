@@ -1,13 +1,13 @@
 ## Hi there 👋 I'm Alejandra Delgado  
 
 💻 Computer Engineering Student at Tecnológico de Costa Rica (TEC)  
-📊 Interested in Data Analytics, Artificial Intelligence & System Optimization  
+📊 Interested in Data Analytics, Artificial Intelligence 
 🔐 Passionate about secure and efficient computing environments  
 🌎 Preparing for global tech and research opportunities  
 ### 🚀 About Me  
 
 - 🎓 4th-year Computer Engineering student  
-- 💼 Experience in technical support and computing lab administration  
+- 💼 Experience in technical support 
 - 🛠️ Interested in building scalable, secure and data-driven solutions  
 - 🌱 Currently improving my skills in Data Analysis, AI and system design  
 
